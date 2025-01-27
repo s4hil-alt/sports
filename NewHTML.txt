@@ -1,0 +1,15 @@
+<p><!DOCTYPE html> <html lang=&quot;en&quot;> <head>  <meta charset=&quot;UTF-8&quot;>  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>  <title>Achieve College Sports Coaching</title>  <style>  body {  font-family: Arial, sans-serif;  line-height: 1.6;  margin: 0;  padding: 0;  }  header {  background: #007acc;  color: white;  padding: 20px 0;  text-align: center;  }  nav {  text-align: center;  padding: 10px;  }  nav a {  text-decoration: none;  color: #007acc;  padding: 10px 20px;  }  .gallery {  display: flex;  gap: 10px;  justify-content: center;  margin: 20px 0;  }  .gallery img {  width: 150px;  height: 150px;  border-radius: 10px;  }  .about {  padding: 20px;  }  footer {  background: #007acc;  color: white;  text-align: center;  padding: 10px;  }  .testimonial {  background: #f4f4f4;  padding: 10px;  margin: 20px;  border-left: 5px solid #007acc;  }  ol {  margin-top: 10px;  }  .icon {  width: 30px;  height: 30px;  }  </style> </head> <body>  <header>  <h1>Achieve College Sports Coaching</h1>  </header></p>
+
+<p> <nav>  <a href=&quot;index.html&quot;>Home</a>  <a href=&quot;contact.html&quot;>Contact Us</a>  </nav></p>
+
+<p> <section class=&quot;about&quot;>  <h2>About Us</h2>  <p>Welcome to Achieve College Sports Coaching and Fitness Sessions! Our program is dedicated to helping students stay active, build confidence, and achieve their fitness goals. We offer professional coaching in a variety of sports, including basketball, football, and track and field. Our expert instructors provide personalized guidance to every participant, ensuring they gain valuable skills and enjoy a supportive environment. Whether you&rsquo;re looking to improve your fitness or train competitively, we&rsquo;ve got you covered!</p></p>
+
+<p> <p>Join our community to experience fun-filled sessions, camaraderie, and physical growth.</p></p>
+
+<p> <h3>Programs We Offer:</h3>  <ol>  <li>Weekly Sports Coaching</li>  <li>Fitness Bootcamps</li>  <li>Personalized Training Sessions</li>  </ol>  </section></p>
+
+<p> <section class=&quot;testimonial&quot;>  <h2>Member Testimonial</h2>  <p>&quot;Achieve College&rsquo;s sports sessions helped me gain confidence and develop my football skills. The coaches are supportive, and the sessions are fun!&quot;</p>  <p>- Jamie L., Student</p>  </section></p>
+
+<p> <section class=&quot;gallery&quot;>  <h2>Gallery</h2>  <img src=&quot;sport1.jpg&quot; alt=&quot;Students playing football&quot;>  <img src=&quot;sport2.jpg&quot; alt=&quot;Coach demonstrating basketball techniques&quot;>  <img src=&quot;sport3.jpg&quot; alt=&quot;Team workout session&quot;>  </section></p>
+
+<p> <footer>  <p>Achieve College Sports Coaching &amp;copy; 2025</p>  </footer> </body> </html></p>
