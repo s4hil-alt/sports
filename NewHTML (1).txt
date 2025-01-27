@@ -1,0 +1,7 @@
+<p><!DOCTYPE html> <html lang=&quot;en&quot;> <head>  <meta charset=&quot;UTF-8&quot;>  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>  <title>Contact Us - Achieve College Sports Coaching</title>  <style>  body {  font-family: Arial, sans-serif;  line-height: 1.6;  margin: 0;  padding: 0;  }  header {  background: #007acc;  color: white;  padding: 20px 0;  text-align: center;  }  .contact {  padding: 20px;  }  .audio-section {  margin-top: 20px;  text-align: center;  }  footer {  background: #007acc;  color: white;  text-align: center;  padding: 10px;  }  </style> </head> <body>  <header>  <h1>Contact Us</h1>  </header></p>
+
+<p> <section class=&quot;contact&quot;>  <h2>Get in Touch</h2>  <p>If you&rsquo;d like to learn more about our programs or have any questions, please reach out to us!</p>  <p>Email: <a href=&quot;mailto:sports@achievecollege.edu&quot;>sports@achievecollege.edu</a></p>  </section></p>
+
+<p> <section class=&quot;audio-section&quot;>  <h2>Audio Message from Our Coach</h2>  <audio controls>  <source src=&quot;coach-message.mp3&quot; type=&quot;audio/mpeg&quot;>  Your browser does not support the audio element.  </audio>  </section></p>
+
+<p> <footer>  <p>Achieve College Sports Coaching &amp;copy; 2025</p>  </footer> </body> </html></p>
